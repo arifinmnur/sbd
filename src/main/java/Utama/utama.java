@@ -1,4 +1,6 @@
-package Utama;
+package main.java.Utama;
+
+import main.java.Utama.frm_Utama_metro;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -13,6 +15,9 @@ package Utama;
 public class utama {
     public static void main (String[] args) throws ClassNotFoundException
     {
+        /**
+         * Comment
+         */
         frm_Utama_metro frmUtama = new frm_Utama_metro();
         frmUtama.setVisible(true);
     }

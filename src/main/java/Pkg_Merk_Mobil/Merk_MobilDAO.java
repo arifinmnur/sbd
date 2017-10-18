@@ -1,4 +1,4 @@
-package Pkg_Merk_Mobil;
+package main.java.Pkg_Merk_Mobil;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

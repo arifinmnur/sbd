@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Utama;
+package main.java.Utama;
 
 
 import java.util.logging.Level;
@@ -13,10 +13,11 @@ import tab_barang.FUpdateBarang;
 import tab_barang.crud_Barang;
 import tab_barang.dt_Barang;
 import tab_barang.barangTableModel;*/
-import Pkg_Merk_Mobil.*;
-import Pkg_ProdusenMobil.*;
+
 import java.util.List;
 import javax.swing.JOptionPane;
+import main.java.Pkg_Merk_Mobil.*;
+import main.java.Pkg_ProdusenMobil.*;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

@@ -1,4 +1,4 @@
-package Pkg_ProdusenMobil;
+package main.java.Pkg_ProdusenMobil;
 
 
 
